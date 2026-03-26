@@ -50,6 +50,7 @@ weather-app/
 
 
 ## Live Demo
+https://frank21kal.github.io/weather/
 
 
 ## Screenshot of project
