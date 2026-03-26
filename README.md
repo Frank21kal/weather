@@ -13,7 +13,7 @@ This application allows users to:
 - View the current temperature (°C)
 - See the weather description
 - View the official weather icon
-
+- 
 The app includes input validation and error handling for better user experience.
 
 
@@ -49,5 +49,14 @@ weather-app/
    - A network error occurs → "Something went wrong." is displayed.
 
 
+## Live Demo
 
-## 📂 Project Structure
+
+## Screenshot of project
+<img width="1366" height="768" alt="Screenshot 2026-03-26 203954" src="https://github.com/user-attachments/assets/1c5fafad-f77e-4bc8-85a8-30d5b6969385" />
+
+
+##Author
+Kali Sowe
+
+
